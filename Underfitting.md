@@ -1,0 +1,1 @@
+**Underfitting** is a modeling error that occurs when a machine learning model is too simple to capture the underlying patterns in the training data. This results in poor performance on both the training dataset and unseen data, as the model fails to learn enough from the data.

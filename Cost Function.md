@@ -9,3 +9,6 @@
 - [[Squared error cost function]]
 
 - [[Gradient Descent]] is used to minimize the cost function for any algorithm, by iteratively adjusting the parameters of the model in order to reduce the error between the predicted and actual values.
+
+- [[Logistic Loss Function]]
+- [[Simplified Loss Function]]

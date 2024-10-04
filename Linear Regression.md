@@ -9,3 +9,8 @@
 - [[Model]]
 - [[Cost Function]]
 - [[Gradient Descent]]
+
+# Types of Linear Regression
+- [[Simple Linear Regression]]
+- [[Multiple Linear Regression]]
+- 

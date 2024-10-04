@@ -15,3 +15,6 @@
 
 # Formula 
 ![[Pasted image 20241004154830.png]]
+
+- [[Convergence in Gradient Descent]]
+- [[Gradient Descent for Logistic Regression]]

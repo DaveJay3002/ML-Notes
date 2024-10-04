@@ -1,0 +1,2 @@
+Min-Max Scaling transforms the features to a fixed range, typically [0, 1]. It scales the data by subtracting the minimum value of the feature and then dividing by the range (max - min).
+![[Pasted image 20241004232750.png]]

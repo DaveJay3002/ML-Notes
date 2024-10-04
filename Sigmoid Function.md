@@ -1,0 +1,2 @@
+The **Sigmoid Function** (also called the logistic function) is the key to logistic regression. It takes any real-valued number as input and outputs a value between 0 and 1, making it useful for probability estimation.
+![[Pasted image 20241004235100.png]]
