@@ -1,0 +1,2 @@
+- **Jupyter Notebook** is an open-source, web-based interactive computing environment that allows users to create and share documents that contain live code, equations, visualizations, and explanatory text. It is widely used in data science, machine learning, scientific computing, and software development because it integrates code execution with rich media and text, making it a powerful tool for exploratory analysis, prototyping, and collaboration.
+- 

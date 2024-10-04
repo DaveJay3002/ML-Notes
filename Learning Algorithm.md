@@ -1,0 +1,1 @@
+A **learning algorithm** is the method or procedure that a machine learning model uses to learn from data. It defines how the model finds patterns or relationships in the data and how it adjusts its parameters to minimize error (in supervised learning) or discover structures (in unsupervised learning).

@@ -1,0 +1,1 @@
+A **model** in machine learning is the final output after training a learning algorithm on a dataset. It represents the learned function that can make predictions or classifications based on new input data. The model is defined by its parameters, which are learned during the training phase.

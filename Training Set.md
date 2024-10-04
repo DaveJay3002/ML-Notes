@@ -1,0 +1,1 @@
+A **training set** in machine learning refers to the dataset used to train a model. It consists of input data (features) and, in the case of supervised learning, the corresponding output labels (targets). The learning algorithm uses this data to learn patterns, relationships, and underlying structures that help in making predictions or decisions.
