@@ -4,8 +4,8 @@
 - The error rate is the average of the errors or differences for all the predicted values and expected values.
 - ![[Pasted image 20241004151822.png]]
 - The cost function for two parameters w and b, for linear regression, so we use the values at the bottom of this plane.
-- 
 
 # Types of Cost Functions
 - [[Squared error cost function]]
-- 
+
+- [[Gradient Descent]] is used to minimize the cost function for any algorithm, by iteratively adjusting the parameters of the model in order to reduce the error between the predicted and actual values.

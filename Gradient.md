@@ -1,0 +1,2 @@
+- The gradient is a vector of partial derivatives of the cost function with respect to the model parameters. It points in the direction of the steepest increase of the cost function.
+- By moving in the opposite direction of the gradient, we can reduce the cost function.
