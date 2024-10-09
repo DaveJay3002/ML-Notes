@@ -8,14 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e92ca32039781924",
+            "id": "090230e3f4f2ea6f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Neural Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d48a3925ef41eecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vectorization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c5477e04b40d7c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tensorflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81023e3b7d74d767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Network Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86603be676b259f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "740dbe77bb56ee9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forward Propagation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "454a9bd02ae8619c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuron.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 335.5
   },
   "right": {
     "id": "c614d26f4a8f2e00",
@@ -81,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vectorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vectorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vectorization.md"
+              }
             }
           }
         ],
@@ -139,8 +220,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e92ca32039781924",
+  "active": "d48a3925ef41eecc",
   "lastOpenFiles": [
+    "Neural Network.md",
+    "Vectorization.md",
+    "Pasted image 20241009155342.png",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Machine Learning.md",
+    "Artificial General Intelligence.md",
+    "Artificial Narrow Intelligence.md",
+    "Forward Propagation.md",
+    "Pasted image 20241009154710.png",
+    "Pasted image 20241009154449.png",
+    "Tensorflow.md",
+    "Neural Network Model.md",
+    "Pasted image 20241009153411.png",
+    "Neural layer.md",
+    "Neuron.md",
     "Regularization.md",
     "Pasted image 20241005003214.png",
     "Underfitting.md",
@@ -156,26 +253,10 @@
     "Pasted image 20241005001551.png",
     "Logistic Regression.md",
     "Gradient Descent.md",
-    "Untitled 1.md",
     "Sigmoid Function.md",
     "Simplified Loss Function.md",
     "Cost Function.md",
     "Logistic Loss Function.md",
-    "Pasted image 20241005000913.png",
-    "Classification.md",
-    "Pasted image 20241005000756.png",
-    "Decision Boundary.md",
-    "Pasted image 20241005000227.png",
-    "Pasted image 20241005000044.png",
-    "Feature Engineering.md",
-    "Mean Normalization.md",
-    "Min Max Scaling.md",
-    "Convergence in Gradient Descent.md",
-    "Feature Scaling.md",
-    "[Min Max Scaling.md",
-    "Linear Regression.md",
-    "Multiple Linear Regression.md",
-    "Gradient.md",
     "Untitled.canvas"
   ]
 }

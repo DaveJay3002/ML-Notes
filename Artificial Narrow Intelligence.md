@@ -1,0 +1,1 @@
+Artificial Narrow Intelligence, also known as **Weak AI**, refers to AI systems that are designed and trained for a specific task or a narrow range of tasks. These systems can outperform humans in their designated areas but lack the generalization ability to perform outside their scope of training. ANI doesn't possess consciousness or general understanding.

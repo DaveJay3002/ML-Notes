@@ -7,3 +7,7 @@
 - [[Recommender Systems]]
 - [[Reinforcement learning]]
 
+
+# Types of AI
+- [[Artificial Narrow Intelligence]]
+- [[Artificial General Intelligence]]
