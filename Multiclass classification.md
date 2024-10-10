@@ -1,0 +1,3 @@
+**Multiclass classification** is a type of classification task in machine learning where an algorithm is trained to categorize input data into one of three or more classes. Unlike binary classification, which involves only two possible outcomes, multiclass classification deals with multiple classes, allowing for a more complex decision boundary. [[Softmax Function]]
+
+![[Pasted image 20241009163656.png]]

@@ -1,0 +1,1 @@
+**Mean Squared Error (MSE)** is a common loss function used in regression tasks that measures the average of the squares of the errors—that is, the average squared difference between the predicted values and the actual values.

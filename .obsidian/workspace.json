@@ -4,95 +4,103 @@
     "type": "split",
     "children": [
       {
-        "id": "6e48031ea4238e77",
+        "id": "eef2fbfe90c032e6",
         "type": "tabs",
         "children": [
           {
-            "id": "090230e3f4f2ea6f",
+            "id": "ff373e878b4221f9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e74b2ac416fa29db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neural Network.md",
+                "file": "ADAM Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d48a3925ef41eecc",
+            "id": "ed3442ebff2f9b67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vectorization.md",
+                "file": "ML Project Cycle.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9c5477e04b40d7c3",
+            "id": "eb811287e6be5ed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tensorflow.md",
+                "file": "Skewed Datasets.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "81023e3b7d74d767",
+            "id": "8a202564d692561a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neural Network Model.md",
+                "file": "Precision and Recall and F1 Score.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "86603be676b259f1",
+            "id": "40ebe000c7a66252",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neural layer.md",
+                "file": "Adding Data.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "740dbe77bb56ee9c",
+            "id": "585e41e80a90098c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forward Propagation.md",
+                "file": "Transfer Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "454a9bd02ae8619c",
+            "id": "a325d04239f5f1a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuron.md",
+                "file": "Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vectorization.md",
+                "file": "Precision and Recall and F1 Score.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vectorization.md",
+                "file": "Precision and Recall and F1 Score.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vectorization.md"
+                "file": "Precision and Recall and F1 Score.md"
               }
             }
           }
@@ -220,43 +228,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d48a3925ef41eecc",
+  "active": "8a202564d692561a",
   "lastOpenFiles": [
-    "Neural Network.md",
-    "Vectorization.md",
-    "Pasted image 20241009155342.png",
-    "Untitled.md",
-    "Untitled 1.md",
+    "Pasted image 20241010134220.png",
+    "Pasted image 20241010133011.png",
+    "Skewed Datasets.md",
+    "Precision and Recall and F1 Score.md",
+    "ML Project Cycle.md",
+    "Pasted image 20241010131701.png",
+    "Pasted image 20241010131621.png",
     "Machine Learning.md",
-    "Artificial General Intelligence.md",
-    "Artificial Narrow Intelligence.md",
-    "Forward Propagation.md",
-    "Pasted image 20241009154710.png",
-    "Pasted image 20241009154449.png",
-    "Tensorflow.md",
-    "Neural Network Model.md",
-    "Pasted image 20241009153411.png",
-    "Neural layer.md",
-    "Neuron.md",
-    "Regularization.md",
-    "Pasted image 20241005003214.png",
-    "Underfitting.md",
+    "Transfer Learning.md",
+    "Pasted image 20241010131416.png",
+    "Adding Data.md",
+    "Pasted image 20241010130807.png",
+    "Pasted image 20241010130634.png",
+    "ADAM Algorithm.md",
+    "Convolutional layer.md",
+    "Multi-label Classification.md",
+    "Softmax Function.md",
+    "Multiclass classification.md",
+    "Classification.md",
+    "Pasted image 20241009164801.png",
+    "Pasted image 20241009164538.png",
+    "Pasted image 20241009164154.png",
+    "Pasted image 20241009163656.png",
     "Feature Selection.md",
-    "Z-score Normalization.md",
-    "Overfitting.md",
-    "Polynomial Regression.md",
-    "Pasted image 20241005002333.png",
-    "Pasted image 20241005002100.png",
-    "Pasted image 20241005001806.png",
-    "Pasted image 20241005001739.png",
-    "Gradient Descent for Logistic Regression.md",
-    "Pasted image 20241005001551.png",
-    "Logistic Regression.md",
-    "Gradient Descent.md",
-    "Sigmoid Function.md",
-    "Simplified Loss Function.md",
-    "Cost Function.md",
+    "Neuron.md",
+    "Forward Propagation.md",
+    "Binary Cross Entropy.md",
     "Logistic Loss Function.md",
+    "Neural Network Model.md",
+    "Sigmoid Function.md",
+    "ReLU.md",
+    "Activation Function.md",
+    "Vectorization.md",
+    "Mean Squared Error.md",
+    "Gradient Descent.md",
+    "Neural Network.md",
     "Untitled.canvas"
   ]
 }

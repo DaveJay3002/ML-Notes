@@ -2,3 +2,5 @@
 
 # Types of classification
 - [[Logistic Regression]]
+- [[Multiclass classification]]
+- [[Multi-label Classification]]

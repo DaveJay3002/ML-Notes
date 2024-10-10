@@ -7,3 +7,6 @@ Also known as, Deep learning, when the traditional algorithm could give satisfac
 [[Forward Propagation]]
 [[Tensorflow]]
 [[Vectorization]]
+[[Binary Cross Entropy]]
+[[Mean Squared Error]]
+

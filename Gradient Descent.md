@@ -18,3 +18,8 @@
 
 - [[Convergence in Gradient Descent]]
 - [[Gradient Descent for Logistic Regression]]
+
+### Gradient descent in tensorflow
+![[Pasted image 20241009162521.png]]
+
+

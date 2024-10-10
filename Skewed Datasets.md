@@ -1,0 +1,2 @@
+- For example, in a disease classifier where you have 99.5 % of not having the disease and only 0.5 % of having the disease then, even if the model returns 0 every time
+- Still it will be 99.5% accurate but this is not ideal.

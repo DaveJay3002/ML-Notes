@@ -5,7 +5,7 @@ In a **neural network**, a **neuron** (also called a **node** or **unit**) is th
 - **Inputs**: Each neuron receives one or more inputs, often numerical data or the output from other neurons in the previous layer.
 - **Weights**: Each input is multiplied by a corresponding weight, which determines the importance of that input.
 - **Bias**: A bias is added to the weighted sum of inputs to allow more flexibility in learning.
-- **Activation Function**: After computing the weighted sum and bias, the neuron applies an activation function to decide whether or not to "activate." This introduces non-linearity to the model, enabling it to learn complex relationships.
+- [[Activation Function]]: After computing the weighted sum and bias, the neuron applies an activation function to decide whether or not to "activate." This introduces non-linearity to the model, enabling it to learn complex relationships.
 
 ### Output:
 
