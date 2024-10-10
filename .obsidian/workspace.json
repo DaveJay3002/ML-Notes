@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eef2fbfe90c032e6",
+        "id": "1b5d4bc55c871e96",
         "type": "tabs",
         "children": [
           {
-            "id": "ff373e878b4221f9",
+            "id": "218613bf43fd109c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,91 +16,127 @@
             }
           },
           {
-            "id": "e74b2ac416fa29db",
+            "id": "9132aa3ad5244533",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADAM Algorithm.md",
+                "file": "Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ed3442ebff2f9b67",
+            "id": "d97b394b4cc28149",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML Project Cycle.md",
+                "file": "Ensemble Trees.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eb811287e6be5ed4",
+            "id": "e00d951315e48b6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skewed Datasets.md",
+                "file": "Random Forest.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8a202564d692561a",
+            "id": "1f1eefa3685644c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Precision and Recall and F1 Score.md",
+                "file": "XGBoost.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "40ebe000c7a66252",
+            "id": "bafbe2680c6b2174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adding Data.md",
+                "file": "One-hot encoding.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "585e41e80a90098c",
+            "id": "36d9b36637adf6fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transfer Learning.md",
+                "file": "Continuous Features.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a325d04239f5f1a3",
+            "id": "da012eb049b95c56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Regression Trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4887ea733ee23c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Variance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17b877d3fd08c966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entropy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "476cf276f74737af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Gain.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Precision and Recall and F1 Score.md",
+                "file": "Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Precision and Recall and F1 Score.md",
+                "file": "Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Precision and Recall and F1 Score.md"
+                "file": "Decision Trees.md"
               }
             }
           }
@@ -228,44 +264,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a202564d692561a",
+  "active": "9132aa3ad5244533",
   "lastOpenFiles": [
-    "Pasted image 20241010134220.png",
-    "Pasted image 20241010133011.png",
-    "Skewed Datasets.md",
-    "Precision and Recall and F1 Score.md",
-    "ML Project Cycle.md",
-    "Pasted image 20241010131701.png",
-    "Pasted image 20241010131621.png",
+    "Pasted image 20241010152717.png",
+    "XGBoost.md",
+    "Pasted image 20241010152622.png",
+    "Random Forest.md",
+    "Ensemble Trees.md",
+    "Decision Trees.md",
+    "Pasted image 20241010150941.png",
     "Machine Learning.md",
+    "Regression Trees.md",
+    "Variance.md",
+    "Pasted image 20241010150641.png",
+    "Pasted image 20241010150420.png",
+    "Continuous Features.md",
+    "Pasted image 20241010150229.png",
+    "One-hot encoding.md",
+    "Pasted image 20241010145958.png",
+    "Information Gain.md",
+    "Pasted image 20241010145218.png",
+    "Pasted image 20241010145006.png",
+    "Entropy.md",
+    "Pasted image 20241010144745.png",
+    "Pasted image 20241010144200.png",
     "Transfer Learning.md",
-    "Pasted image 20241010131416.png",
     "Adding Data.md",
-    "Pasted image 20241010130807.png",
-    "Pasted image 20241010130634.png",
+    "Precision and Recall and F1 Score.md",
+    "Skewed Datasets.md",
+    "ML Project Cycle.md",
     "ADAM Algorithm.md",
+    "Underfitting.md",
     "Convolutional layer.md",
     "Multi-label Classification.md",
     "Softmax Function.md",
     "Multiclass classification.md",
     "Classification.md",
-    "Pasted image 20241009164801.png",
-    "Pasted image 20241009164538.png",
-    "Pasted image 20241009164154.png",
-    "Pasted image 20241009163656.png",
     "Feature Selection.md",
     "Neuron.md",
-    "Forward Propagation.md",
-    "Binary Cross Entropy.md",
-    "Logistic Loss Function.md",
-    "Neural Network Model.md",
-    "Sigmoid Function.md",
-    "ReLU.md",
-    "Activation Function.md",
-    "Vectorization.md",
-    "Mean Squared Error.md",
-    "Gradient Descent.md",
-    "Neural Network.md",
     "Untitled.canvas"
   ]
 }

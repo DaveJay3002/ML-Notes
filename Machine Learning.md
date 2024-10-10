@@ -6,6 +6,7 @@
 - [[Unsupervised Learning]]
 - [[Recommender Systems]]
 - [[Reinforcement learning]]
+- [[Decision Trees]]
 
 
 # Types of AI
