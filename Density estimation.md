@@ -1,0 +1,2 @@
+**Density estimation in anomaly detection** is a technique used to model the probability distribution of data to identify regions of high or low density. Anomalies are detected as data points that fall in low-density regions, where the probability of occurrence is low compared to the majority of the data points. This method can be used in both parametric (e.g., Gaussian distribution) and non-parametric (e.g., Kernel Density Estimation) approaches
+

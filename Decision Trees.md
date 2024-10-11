@@ -1,6 +1,6 @@
 A **Decision Tree** is a supervised machine learning algorithm used for both classification and regression tasks. It models decisions in the form of a tree-like structure, where each internal node represents a feature or attribute, each branch represents a decision rule, and each leaf node represents an outcome or class label.
-[[Entropy]] [[Information Gain]] [[One-hot encoding]] [[Continuous Features]] [[Regression Trees]] [
-[Ensemble Trees]] [[Random Forest]] [[XGBoost]]
+[[Entropy]] [[Information Gain]] [[One-hot encoding]] [[Continuous Features]] [[Regression Trees]] 
+[[Ensemble Trees]] [[Random Forest]] [[XGBoost]]
 ### Key Characteristics:
 
 - **Root Node**: Represents the entire dataset and is split into sub-nodes based on the feature that best divides the data.

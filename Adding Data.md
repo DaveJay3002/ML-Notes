@@ -1,16 +1,15 @@
-Instead of getting more data of every type in the data, ad more data of the types where error analysis has indicated it might help.
+Instead of getting more data of every type in the dataset, focus on adding more data for the types where error analysis has indicated it might help.
 
 # Data Augmentation
 
-For image data, we can take the training example and crop it, or rotate it or mirror it.
-We can also add distortions to the images to create new images.
+For image data, we can take the training examples and apply transformations like cropping, rotating, or mirroring the images. Additionally, we can add distortions to the images to create new variants, which enrich the dataset.
 
 ![[Pasted image 20241010130634.png]]
 
-For audios we can augment them by adding some type of background noise or disturbance to the audio.
+For audio data, we can augment them by introducing background noise or disturbances, simulating real-world conditions.
 
 ![[Pasted image 20241010130807.png]]
 
-To augment the images of letters then we can use the fonts in the computer with different contrasts, colors, etc.
+When working with images of letters, we can use different fonts, colors, contrasts, and other visual variations from a computer to create augmented examples.
 
-How to augment the data so that it helps the algorithm rather than confusing it. 
+It's important to augment the data in ways that improve the algorithm's learning rather than confusing it with irrelevant variations. Carefully chosen augmentations help the model generalize better to unseen data.

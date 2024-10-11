@@ -4,3 +4,4 @@
 - [[Regression]]
 - [[Classification]]
 
+[[Anomaly Detection vs Supervised learning]]

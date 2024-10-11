@@ -1,6 +1,6 @@
 **Classification** is a type of **supervised learning** algorithm used to predict categorical labels or classes for given input data.
 
-# Types of classification
+# Types of Classification
 - [[Logistic Regression]]
-- [[Multiclass classification]]
+- [[Multiclass Classification]]
 - [[Multi-label Classification]]

@@ -3,4 +3,7 @@
 
 # Types of Unsupervised learning
 - [[Clustering]]
-- 
+- [[Anomaly Detection]]
+- [[Recommender Systems]]
+- [[Reinforcement learning]]
+- [[Principal Component Analysis]]

@@ -1,0 +1,1 @@
+**Parameter estimation in anomaly detection** involves determining the parameters of a statistical model that best fit the [[Normal Distribution]], enabling the identification of anomalies. In the context of anomaly detection, parameter estimation is crucial for understanding the underlying data distribution, which helps in distinguishing between normal and anomalous data points.
